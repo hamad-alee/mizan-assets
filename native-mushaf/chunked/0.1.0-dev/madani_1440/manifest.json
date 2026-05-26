@@ -1,0 +1,315 @@
+{
+  "package_id": "mizan.quran_foundation.hafs.madani_1440.fullcache.dev",
+  "display_name": "Quran Foundation Hafs Madani 1440",
+  "version": "0.1.0-dev",
+  "manifest_version": 1,
+  "schema_version": 2,
+  "page_count": 604,
+  "script": "uthmani_madani",
+  "layout_name": "Hafs Madani 1440",
+  "source": "Quran Foundation / files.quran.app",
+  "source_variant": "hafs/madani_1440",
+  "source_images_url": "https://files.quran.app/hafs/madani_1440/zips/images_1352.zip",
+  "source_ayahinfo_url": "https://files.quran.app/hafs/madani_1440/databases/ayahinfo/ayahinfo_1352.zip",
+  "source_metadata": {
+    "source_name": "Quran Foundation / files.quran.app",
+    "source_url": "https://files.quran.app/hafs/madani_1440/",
+    "source_license": "Quran Foundation permission",
+    "attribution": "Quran Foundation permitted cache content; 7-day sync/update required before release.",
+    "generated_by": "tools/render_package/import_qf_madani_1440_package.py",
+    "script_source": "hafs/madani_1440",
+    "layout_source": "QF ayahinfo_1352",
+    "image_generation_method": "Imported official QF page images; no text rendering performed."
+  },
+  "dev_only": true,
+  "not_release_ready": true,
+  "sync_required_before_release": true,
+  "sync_requirement_note": "Quran Foundation permission requires checking every 7 days for deltas and updating local data if deltas exist. This importer does not implement sync.",
+  "package_type": "mushaf_page",
+  "sqlite_file_name": "package.sqlite",
+  "images_directory": "images",
+  "download_enabled": true,
+  "generated_at": "2026-05-26T13:13:31.752696Z",
+  "chunks": [
+    {
+      "id": "pages_001_020",
+      "archive_file_name": "chunks/pages_001_020.zip",
+      "sha256": "dc4d0c28663c5d2a32bc4b1cfd3758d41187a65e65e0d292970948938f5eba61",
+      "size_bytes": 3231734,
+      "page_start": 1,
+      "page_end": 20,
+      "required": true,
+      "bootstrap": true
+    },
+    {
+      "id": "pages_021_040",
+      "archive_file_name": "chunks/pages_021_040.zip",
+      "sha256": "e721a7f3ec604780c791df2ac7773999065d9d66208b09ab2dfb3d4bb1a5fa37",
+      "size_bytes": 3569534,
+      "page_start": 21,
+      "page_end": 40,
+      "required": true
+    },
+    {
+      "id": "pages_041_060",
+      "archive_file_name": "chunks/pages_041_060.zip",
+      "sha256": "858fcac94e944c0e27259738f2cc312a744db852b6cb5007203f46964a4158d8",
+      "size_bytes": 3609636,
+      "page_start": 41,
+      "page_end": 60,
+      "required": true
+    },
+    {
+      "id": "pages_061_080",
+      "archive_file_name": "chunks/pages_061_080.zip",
+      "sha256": "43df681e5525482c4559ec197a62acb6d2e1a6eba0362106238d1ec3677da971",
+      "size_bytes": 3670220,
+      "page_start": 61,
+      "page_end": 80,
+      "required": true
+    },
+    {
+      "id": "pages_081_100",
+      "archive_file_name": "chunks/pages_081_100.zip",
+      "sha256": "11d486b50fc1356eed2b4a6d3bbbc96cf98a32c679bbbd44c5b43a51ad9e241a",
+      "size_bytes": 3651544,
+      "page_start": 81,
+      "page_end": 100,
+      "required": true
+    },
+    {
+      "id": "pages_101_120",
+      "archive_file_name": "chunks/pages_101_120.zip",
+      "sha256": "1b11d379845398a5170707d2f917a66a4ee167aa1a5c8bfc2ac5aaeb27901255",
+      "size_bytes": 3615888,
+      "page_start": 101,
+      "page_end": 120,
+      "required": true
+    },
+    {
+      "id": "pages_121_140",
+      "archive_file_name": "chunks/pages_121_140.zip",
+      "sha256": "3385bd5162c93bcb33500cd2df2095d477d821362e0a4cc253c4266fff13a941",
+      "size_bytes": 3815664,
+      "page_start": 121,
+      "page_end": 140,
+      "required": true
+    },
+    {
+      "id": "pages_141_160",
+      "archive_file_name": "chunks/pages_141_160.zip",
+      "sha256": "2938b52daced07066737681a38b5c6ed20c92d70fc689d94852fca128fee1492",
+      "size_bytes": 3673500,
+      "page_start": 141,
+      "page_end": 160,
+      "required": true
+    },
+    {
+      "id": "pages_161_180",
+      "archive_file_name": "chunks/pages_161_180.zip",
+      "sha256": "7270458c94129d90e93498336111fbdf5bb87b050b3276dcf2ca0f6f99155eec",
+      "size_bytes": 3729312,
+      "page_start": 161,
+      "page_end": 180,
+      "required": true
+    },
+    {
+      "id": "pages_181_200",
+      "archive_file_name": "chunks/pages_181_200.zip",
+      "sha256": "ae768f0abd60265b51aac1a98cf5f60456cc94ea1b31bd4e8d96c8a9e5a17569",
+      "size_bytes": 3543464,
+      "page_start": 181,
+      "page_end": 200,
+      "required": true
+    },
+    {
+      "id": "pages_201_220",
+      "archive_file_name": "chunks/pages_201_220.zip",
+      "sha256": "b871ea42cc1527130bb18d54f3168a244b63459dea70029718fa676b575f5070",
+      "size_bytes": 3705534,
+      "page_start": 201,
+      "page_end": 220,
+      "required": true
+    },
+    {
+      "id": "pages_221_240",
+      "archive_file_name": "chunks/pages_221_240.zip",
+      "sha256": "5489a78beb1ed0dd73b50829c044f4e4298c86f376576aa2a0adba2cc0609b9a",
+      "size_bytes": 3825364,
+      "page_start": 221,
+      "page_end": 240,
+      "required": true
+    },
+    {
+      "id": "pages_241_260",
+      "archive_file_name": "chunks/pages_241_260.zip",
+      "sha256": "f951ea1d0100b1d9d675c556f274f27cb0ed335ff9d4b7ccdbfb77485ca580ca",
+      "size_bytes": 3767206,
+      "page_start": 241,
+      "page_end": 260,
+      "required": true
+    },
+    {
+      "id": "pages_261_280",
+      "archive_file_name": "chunks/pages_261_280.zip",
+      "sha256": "dea667fd897d72d74c00e9a43a54567511afe27a007f4f4376fa3904d76b949e",
+      "size_bytes": 3846464,
+      "page_start": 261,
+      "page_end": 280,
+      "required": true
+    },
+    {
+      "id": "pages_281_300",
+      "archive_file_name": "chunks/pages_281_300.zip",
+      "sha256": "0978d52fbcfd6e2d83bb088f7abd067ef1b32799fcc8d9aec61abf6136150510",
+      "size_bytes": 3900428,
+      "page_start": 281,
+      "page_end": 300,
+      "required": true
+    },
+    {
+      "id": "pages_301_320",
+      "archive_file_name": "chunks/pages_301_320.zip",
+      "sha256": "96f7ca664e33f29c64a0170a54da6abae266de1116ccf04037d483f36a5461b5",
+      "size_bytes": 4024952,
+      "page_start": 301,
+      "page_end": 320,
+      "required": true
+    },
+    {
+      "id": "pages_321_340",
+      "archive_file_name": "chunks/pages_321_340.zip",
+      "sha256": "9cbdc08935d3890ef56481c592a533752d5f1df3136f1dbd7843c631c9ce3390",
+      "size_bytes": 3695214,
+      "page_start": 321,
+      "page_end": 340,
+      "required": true
+    },
+    {
+      "id": "pages_341_360",
+      "archive_file_name": "chunks/pages_341_360.zip",
+      "sha256": "3aae9ad1a16427763543aed2c6c73805209e834e246c0f4bf324105e69806a8a",
+      "size_bytes": 3965770,
+      "page_start": 341,
+      "page_end": 360,
+      "required": true
+    },
+    {
+      "id": "pages_361_380",
+      "archive_file_name": "chunks/pages_361_380.zip",
+      "sha256": "796db81b8e7f630a1fa26edcb7caeb723261460319e15482ab4244a5afc55282",
+      "size_bytes": 4102316,
+      "page_start": 361,
+      "page_end": 380,
+      "required": true
+    },
+    {
+      "id": "pages_381_400",
+      "archive_file_name": "chunks/pages_381_400.zip",
+      "sha256": "e2c6e9c6f99aab54a2f167ff96c05115d71e7aaa611402546dfb753f9a795923",
+      "size_bytes": 3732950,
+      "page_start": 381,
+      "page_end": 400,
+      "required": true
+    },
+    {
+      "id": "pages_401_420",
+      "archive_file_name": "chunks/pages_401_420.zip",
+      "sha256": "cf1718098125ae0351d6e1c8cefdb52b132e8defd06965e0dba40cf042e52f87",
+      "size_bytes": 3965006,
+      "page_start": 401,
+      "page_end": 420,
+      "required": true
+    },
+    {
+      "id": "pages_421_440",
+      "archive_file_name": "chunks/pages_421_440.zip",
+      "sha256": "73137a0004b6ab559a525df38141f6ed746a44f1e6a18e74bd8c87254146fefd",
+      "size_bytes": 3884526,
+      "page_start": 421,
+      "page_end": 440,
+      "required": true
+    },
+    {
+      "id": "pages_441_460",
+      "archive_file_name": "chunks/pages_441_460.zip",
+      "sha256": "15b20c34a96fcf3ac31237b95cd5d5d8a5a9075b674d54c951670f52c4600410",
+      "size_bytes": 4304600,
+      "page_start": 441,
+      "page_end": 460,
+      "required": true
+    },
+    {
+      "id": "pages_461_480",
+      "archive_file_name": "chunks/pages_461_480.zip",
+      "sha256": "0727e8d9d44c835f9efa05e400609cfc83cfa269bfe81e3e725efb7b5a3469d2",
+      "size_bytes": 3785472,
+      "page_start": 461,
+      "page_end": 480,
+      "required": true
+    },
+    {
+      "id": "pages_481_500",
+      "archive_file_name": "chunks/pages_481_500.zip",
+      "sha256": "25a2ad7a88a5373800430c629006ce9071007db44537a45d3a1fd78aade4c7d3",
+      "size_bytes": 3996998,
+      "page_start": 481,
+      "page_end": 500,
+      "required": true
+    },
+    {
+      "id": "pages_501_520",
+      "archive_file_name": "chunks/pages_501_520.zip",
+      "sha256": "36dd5238e3608569f42035c5041ccc95cbd9cdf917cc047dd581c94f3eadaf3d",
+      "size_bytes": 4295306,
+      "page_start": 501,
+      "page_end": 520,
+      "required": true
+    },
+    {
+      "id": "pages_521_540",
+      "archive_file_name": "chunks/pages_521_540.zip",
+      "sha256": "1a37ba3b4675f07bf704358aec88cdb15e6d77913e6db872a3059e9196ee2328",
+      "size_bytes": 4598928,
+      "page_start": 521,
+      "page_end": 540,
+      "required": true
+    },
+    {
+      "id": "pages_541_560",
+      "archive_file_name": "chunks/pages_541_560.zip",
+      "sha256": "5dfa0c698eea18824529530c999f33abd42cbb45d3b11b6c39a3c4aeb38b3cd9",
+      "size_bytes": 4486630,
+      "page_start": 541,
+      "page_end": 560,
+      "required": true
+    },
+    {
+      "id": "pages_561_580",
+      "archive_file_name": "chunks/pages_561_580.zip",
+      "sha256": "b4010e7909edd54dfea19608850dd5726ffe147af5d20e71b237ff088cfa18c4",
+      "size_bytes": 5038356,
+      "page_start": 561,
+      "page_end": 580,
+      "required": true
+    },
+    {
+      "id": "pages_581_600",
+      "archive_file_name": "chunks/pages_581_600.zip",
+      "sha256": "29b3d27cb1726dd1e986fae5a8ead2b88750acf20116c54654e4ddf43d3e41dc",
+      "size_bytes": 5949848,
+      "page_start": 581,
+      "page_end": 600,
+      "required": true
+    },
+    {
+      "id": "pages_601_604",
+      "archive_file_name": "chunks/pages_601_604.zip",
+      "sha256": "3fb757335de06e45f705a0247d6207b22e67a667a9effbb83afec4eab3201a08",
+      "size_bytes": 1491232,
+      "page_start": 601,
+      "page_end": 604,
+      "required": true
+    }
+  ]
+}
